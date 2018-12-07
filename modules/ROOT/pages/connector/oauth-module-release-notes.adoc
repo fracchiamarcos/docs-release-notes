@@ -3,6 +3,7 @@ ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 
+////
 == 1.1.8
 
 *November 2, 2018*
@@ -14,7 +15,7 @@ endif::[]
 === Fixed Issues
 
 * Setting `refreshTokenWhen=true` in oauth:authorization-code-grant-type fails with an exception. ( https://www.mulesoft.org/jira/browse/MULE-15809[MULE-15809])
-
+////
 
 == 1.1.7
 
